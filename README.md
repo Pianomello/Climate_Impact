@@ -1,17 +1,17 @@
-# Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll
+## Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll
 
 
-## Investigating the Relationship between Global Warming and Natural Disasters:
+### Investigating the Relationship between Global Warming and Natural Disasters:
 
 This project delivers a thorough exploratory data analysis to explore how rising global temperatures relate statistically to the increasing frequency of natural disasters and their growing economic costs.
 
-## Using Python and core data science libraries (Pandas, Matplotlib, Seaborn, and SciPy), I analyzed three major datasets:
+### Using Python and core data science libraries (Pandas, Matplotlib, Seaborn, and SciPy), I analyzed three major datasets:
 
 -> Global land and sea temperatures from 1750 to 2015
 -> Recorded natural disasters by type from 1900 to 2018
 -> Associated economic losses during the same period
 
-## Analytical Workflow:
+### Analytical Workflow:
 
 a) Data Preparation & Cleaning: I processed large datasets and calculated annual temperature anomalies based on the 1951–1980 baseline to make warming trends visually clear.
 
@@ -23,7 +23,7 @@ d) Economic Normalization: To account for global economic growth, disaster damag
 
 e) Statistical Testing: I applied the Shapiro-Wilk test to check for normality in the data and used both Pearson and Spearman tests to confirm the statistical strength of the relationships observed.
 
-## Key Results:
+### Key Results:
 
 1) There is a very strong and statistically significant correlation (ρ ≈ 0.89) between rising global temperatures and the frequency of climate-related disasters.
 
@@ -31,7 +31,7 @@ e) Statistical Testing: I applied the Shapiro-Wilk test to check for normality i
 
 3) The findings also support the “Reporting Bias Hypothesis”—improved detection and global reporting have contributed to the observed rise in documented geophysical and climate-related disasters.
 
-## Conclusion
+### Conclusion
 
 This analysis presents solid, data-backed evidence that our warming climate is closely linked to a significant increase in climate-related disasters, which are having a steadily growing impact on the global economy.
 
