@@ -1,5 +1,6 @@
 ## Climate & Catastrophe: A Data-Driven Analysis of Rising Temperatures, Natural Disasters, and their Economic Toll
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Investigating the Relationship between Global Warming and Natural Disasters:
 
